@@ -4,44 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fa8961a-80d0-471f-bf17-867fe61246e7" name="변경" comment="전반적인 구현 1차 완료">
-      <change afterPath="$PROJECT_DIR$/files/namefile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/rumname.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/rumprice.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/sidename.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/sideprice.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/vodkaname.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/vodkaprice.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/whiskyname.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/whiskyprice.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/QR.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/글렌피딕_12년_1000ml.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/돈_훌리오_레포사도_750ml.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/듀랑고_화이트_데킬라_1000ml.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/라헨다리오_론_카르타_블랑카_슈페리어_700ml.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/라헨다리오_아네호_블랑코_700ml.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/론_자카파_23_750ml.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/바카디_골드_750ml.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/바카디_화이트_750ml.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/바톤_보드카_1000ml.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/산토리_하쿠슈_700ml.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/산토리_히비끼_30년_700ml.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/아가베로_750ml.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/아르키_보드카_750ml.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/앱솔루트_보드카_1000ml.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/잭다니엘_700ml.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/잭다니엘_싱글베럴_700ml.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/하바나클럽_3년.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/호세_1800_아네호_750ml.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/호세_쿠엘보_1000ml.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MenuOption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MenuOption.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MenuPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MenuPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Picture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Picture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Request.java" afterDir="false" />
-    </list>
+    <list default="true" id="8fa8961a-80d0-471f-bf17-867fe61246e7" name="변경" comment="전반적인 구현 1차 완료" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Opensource" />
+        <entry key="$PROJECT_DIR$" value="LibationStation" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -71,30 +34,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "LibationStation",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/윤민서/Desktop/3학년/1학기/소설/OpensourceSWdesign/image",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true",
-    "애플리케이션.Main.executor": "Run",
-    "애플리케이션.이름이 지정되지 않았습니다.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;LibationStation&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/윤민서/Desktop/3학년/1학기/소설/OpensourceSWdesign/image&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;애플리케이션.Main.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.이름이 지정되지 않았습니다.executor&quot;: &quot;Run&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory",
-      "module"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\윤민서\Desktop\3학년\1학기\소설\OpensourceSWdesign\image" />
